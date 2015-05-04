@@ -6,5 +6,6 @@ package nk.james.controller;
  *
  */
 public class Controller {
+	//this is as the base class of Controllers
 
 }
