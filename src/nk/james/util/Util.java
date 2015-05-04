@@ -7,5 +7,6 @@ package nk.james.util;
  *
  */
 public class Util {
+	//this is the base class of Utilities
 
 }
